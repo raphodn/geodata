@@ -1,0 +1,353 @@
+"City (en)";"City (de)";"Country (en)";"Country (de)";"Country code";"Population";"Latitude";"Longitude"
+"Shanghai";"Shanghai";"China";"China";"CN";22315500;31.22222;121.45806
+"Karachi";"Karachi";"Pakistan";"Pakistan";"PK";13052000;24.9056;67.0822
+"Mumbai";"Mumbai";"India";"Indien";"IN";12691800;19.07283;72.88261
+"Beijing";"Peking";"China";"China";"CN";11716600;39.9075;116.39723
+"Istanbul";"Istanbul";"Turkey";"Türkei";"TR";11174300;41.01384;28.94966
+"Guangzhou";"Guangzhou";"China";"China";"CN";11071400;23.11667;113.25
+"Delhi";"Delhi";"India";"Indien";"IN";10928000;28.65195;77.23149
+"Lagos";"Lagos";"Nigeria";"Nigeria";"NG";10404100;6.45407;3.39467
+"Moscow";"Moskau";"Russia";"Russland";"RU";10381200;55.75222;37.61556
+"Shenzhen";"Shenzhen";"China";"China";"CN";10358400;22.54554;114.0683
+"Seoul";"Seoul";"South Korea";"Südkorea";"KR";10349300;37.566;126.9784
+"São Paulo";"São Paulo";"Brazil";"Brasilien";"BR";10021300;-23.5475;-46.63611
+"Jakarta";"Jakarta";"Indonesia";"Indonesien";"ID";9588200;-6.21462;106.84513
+"Kinshasa";"Kinshasa";"Democratic Republic of the Congo";"Demokratische Republik Kongo";"CD";9463800;-4.32758;15.31357
+"Mexico City";"Mexiko City";"Mexico";"Mexiko";"MX";8851100;19.42847;-99.12766
+"Tokyo";"Tokio";"Japan";"Japan";"JP";8336600;35.6895;139.69171
+"New York City";"New York City";"United States";"Vereinigte Staaten von Amerika";"US";8175100;40.71427;-74.00597
+"Dongguan";"Dongguan";"China";"China";"CN";8000000;23.04889;113.74472
+"Cairo";"Kairo";"Egypt";"Ägypten";"EG";7734600;30.06263;31.24967
+"Lima";"Lima";"Peru";"Peru";"PE";7605800;-12.04318;-77.02824
+"London";"London";"United Kingdom";"Vereinigtes Königreich";"GB";7556900;51.50853;-0.12574
+"Nanjing";"Nanjing";"China";"China";"CN";7165300;32.06167;118.77778
+"Tehran";"Teheran";"Iran";"Iran";"IR";7153300;35.69439;51.42151
+"Nanchong";"Nanchong";"China";"China";"CN";7150000;30.79508;106.08473
+"Hong Kong";"Hongkong";"Hong Kong";"Hongkong";"HK";7097600;22.28552;114.15769
+"Lahore";"Lahore";"Pakistan";"Pakistan";"PK";7092000;31.54972;74.34361
+"Bogotá";"Bogotá";"Colombia";"Kolumbien";"CO";6840200;4.60971;-74.08175
+"Dhaka";"Dhaka";"Bangladesh";"Bangladesch";"BD";6725000;23.7104;90.40744
+"Hanoi";"Hanoi";"Vietnam";"Vietnam";"VN";6448800;21.0245;105.84117
+"Rio de Janeiro";"Rio de Janeiro";"Brazil";"Brasilien";"BR";6430000;-22.90278;-43.2075
+"Shenyang";"Shenyang";"China";"China";"CN";6255900;41.79222;123.43278
+"Hangzhou";"Hangzhou";"China";"China";"CN";6242000;30.29365;120.16142
+"Ho Chi Minh City";"Ho Chi Minh Stadt";"Vietnam";"Vietnam";"VN";6117300;10.82302;106.62965
+"Caracas";"Caracas";"Venezuela";"Venezuela";"VE";5808900;10.48801;-66.87919
+"Riyadh";"Riad";"Saudi Arabia";"Saudi-Arabien";"SA";5700000;24.68773;46.72185
+"Ahmedabad";"Ahmedabad";"India";"Indien";"IN";5570600;23.02579;72.58727
+"Baghdad";"Bagdad";"Iraq";"Irak";"IQ";5514000;33.34058;44.40088
+"Tai’an";"Tai’an";"China";"China";"CN";5499000;36.18528;117.12
+"Singapore";"Singapur";"Singapore";"Singapur";"SG";5399200;1.28967;103.85007
+"Suzhou";"Suzhou";"China";"China";"CN";5346000;31.30408;120.59538
+"Shantou";"Shantou";"China";"China";"CN";5329000;23.36814;116.71479
+"Bangkok";"Bangkok";"Thailand";"Thailand";"TH";5104500;13.75398;100.50144
+"Bangalore";"Bangalore";"India";"Indien";"IN";5104000;12.97194;77.59369
+"Saint Petersburg";"Sankt Petersburg";"Russia";"Russland";"RU";5028000;59.93863;30.31413
+"Santiago";"Santiago";"Chile";"Chile";"CL";4837300;-33.45694;-70.64827
+"Kolkata";"Kalkutta";"India";"Indien";"IN";4631400;22.56263;88.36304
+"Sydney";"Sydney";"Australia";"Australien";"AU";4627300;-33.86785;151.20732
+"Chengdu";"Chengdu";"China";"China";"CN";4522000;30.66667;104.06667
+"Harbin";"Harbin";"China";"China";"CN";4517500;45.75;126.65
+"Rangoon";"Rangun";"Burma";"Myanmar";"MM";4477600;16.80528;96.15611
+"Abidjan";"Abidjan";"Ivory Coast";"Elfenbeinküste";"CI";4477000;5.30966;-4.01266
+"Dar es Salaam";"Dar es Salaam";"Tanzania";"Tansania";"TZ";4364500;-6.82349;39.26951
+"Ankara";"Ankara";"Turkey";"Türkei";"TR";4338600;39.91987;32.85427
+"Jinan";"Jinan";"China";"China";"CN";4335900;36.66833;116.99722
+"Chennai";"Chennai";"India";"Indien";"IN";4328100;13.08784;80.27847
+"Chongqing";"Chongqing";"China";"China";"CN";4321500;29.56278;106.55278
+"Wuhan";"Wuhan";"China";"China";"CN";4263000;30.58333;114.26667
+"Zhengzhou";"Zhengzhou";"China";"China";"CN";4253900;34.75778;113.64861
+"Melbourne";"Melbourne";"Australia";"Australien";"AU";4250000;-37.814;144.96332
+"Taiyuan";"Taiyüan";"China";"China";"CN";4201600;37.86944;112.56028
+"Pyongyang";"Pjöngjang";"North Korea";"Nordkorea";"KP";4138200;39.03385;125.75432
+"Xi’an";"Xi’an";"China";"China";"CN";4052500;34.25833;108.92861
+"Chittagong";"Chittagong";"Bangladesh";"Bangladesch";"BD";3920200;22.3384;91.83168
+"Alexandria";"Alexandria";"Egypt";"Ägypten";"EG";3811500;31.21564;29.95527
+"Los Angeles";"Los Angeles";"United States";"Vereinigte Staaten von Amerika";"US";3792600;34.05223;-118.24368
+"Tianjin";"Tianjin";"China";"China";"CN";3756000;39.14222;117.17667
+"Cape Town";"Kapstadt";"South Africa";"Südafrika";"ZA";3740000;-33.92584;18.42322
+"Qingdao";"Qingdao";"China";"China";"CN";3718800;36.06605;120.36939
+"Busan";"Busan";"South Korea";"Südkorea";"KR";3678600;35.10278;129.04028
+"Al Jizah";"Gizeh";"Egypt";"Ägypten";"EG";3628100;30.00808;31.21093
+"Changsha";"Changsha";"China";"China";"CN";3617500;28.19874;112.97087
+"Foshan";"Foshan";"China";"China";"CN";3600000;23.02677;113.13148
+"Hyderabad";"Hyderabad";"India";"Indien";"IN";3597800;17.38405;78.45636
+"Puyang";"Puyang";"China";"China";"CN";3590000;29.45679;119.88872
+"Dalian";"Dalian";"China";"China";"CN";3578500;38.91222;121.60222
+"Yokohama";"Yokohama";"Japan";"Japan";"JP";3574400;35.44778;139.6425
+"Ibadan";"Ibadan";"Nigeria";"Nigeria";"NG";3565100;7.37756;3.90591
+"Wuxi";"Wuxi";"China";"China";"CN";3543700;31.56887;120.28857
+"Xiamen";"Xiamen";"China";"China";"CN";3531300;24.47979;118.08187
+"Changchun";"Changchun";"China";"China";"CN";3530100;43.88;125.32278
+"Tianshui";"Tianshui";"China";"China";"CN";3500000;34.57952;105.74238
+"Ningbo";"Ningbo";"China";"China";"CN";3491600;29.87819;121.54945
+"Kunming";"Kunming";"China";"China";"CN";3470000;25.03889;102.71833
+"Shiyan";"Shiyan";"China";"China";"CN";3460000;32.6475;110.77806
+"Durban";"Durban";"South Africa";"Südafrika";"ZA";3425800;-29.8579;31.0292
+"Berlin";"Berlin";"Germany";"Deutschland";"DE";3419700;52.52437;13.41053
+"Izmir";"Izmir";"Turkey";"Türkei";"TR";3402000;38.41273;27.13838
+"Tangshan";"Tangshan";"China";"China";"CN";3372100;39.63333;118.18333
+"Hefei";"Hefei";"China";"China";"CN";3310300;31.86389;117.28083
+"Kabul";"Kabul";"Afghanistan";"Afghanistan";"AF";3290000;34.52813;69.17233
+"Madrid";"Madrid";"Spain";"Spanien";"ES";3255900;40.4165;-3.70256
+"Casablanca";"Casablanca";"Morocco";"Marokko";"MA";3144900;33.58831;-7.61138
+"Zibo";"Zibo";"China";"China";"CN";3129200;36.79056;118.06333
+"Zhongshan";"Zhongshan";"China";"China";"CN";3121300;21.31992;110.5723
+"Ürümqi";"Ürümqi";"China";"China";"CN";3112600;43.80096;87.60046
+"Santo Domingo";"Santo Domingo";"Dominican Republic";"Dominikanische Republik";"DO";2987000;18.50012;-69.98857
+"Pune";"Pune";"India";"Indien";"IN";2935700;18.51957;73.85535
+"Surat";"Surat";"India";"Indien";"IN";2894500;21.19594;72.83023
+"Buenos Aires";"Buenos Aires";"Argentina";"Argentinien";"AR";2890200;-34.61315;-58.37723
+"Jeddah";"Jeddah";"Saudi Arabia";"Saudi-Arabien";"SA";2867400;21.54238;39.19797
+"Rome";"Rom";"Italy";"Italien";"IT";2863300;41.89193;12.51133
+"Omdurman";"Omdurman";"Sudan";"Sudan";"SD";2840000;15.64453;32.47773
+"Shijiazhuang";"Shijiazhuang";"China";"China";"CN";2834900;38.04139;114.47861
+"Kanpur";"Kanpur";"India";"Indien";"IN";2823200;26.4478;80.34627
+"Kiev";"Kiew";"Ukraine";"Ukraine";"UA";2797600;50.45466;30.5238
+"Faisalabad";"Faisalabad";"Pakistan";"Pakistan";"PK";2793700;31.41667;73.08333
+"Brasília";"Brasília";"Brazil";"Brasilien";"BR";2789800;-15.77972;-47.92972
+"Luanda";"Luanda";"Angola";"Angola";"AO";2776200;-8.83682;13.23432
+"Quezon City";"Quezon City";"Philippines";"Philippinen";"PH";2761700;14.6488;121.0509
+"Addis Ababa";"Addis Abeba";"Ethiopia";"Äthiopien";"ET";2757700;9.02497;38.74689
+"Nairobi";"Nairobi";"Kenya";"Kenia";"KE";2750500;-1.28333;36.81667
+"Jaipur";"Jaipur";"India";"Indien";"IN";2711800;26.91962;75.78781
+"Chicago";"Chicago";"United States";"Vereinigte Staaten von Amerika";"US";2695600;41.85003;-87.65005
+"Taipei";"Taipei";"Taiwan";"Taiwan";"TW";2693700;25.04776;121.53185
+"Khartoum";"Khartum";"Sudan";"Sudan";"SD";2682500;15.55177;32.53241
+"Salvador";"Salvador";"Brazil";"Brasilien";"BR";2676600;-12.97111;-38.51083
+"Osaka";"Osaka";"Japan";"Japan";"JP";2666400;34.69374;135.50218
+"Lanzhou";"Lanzhou";"China";"China";"CN";2628400;36.05701;103.83987
+"Incheon";"Incheon";"South Korea";"Südkorea";"KR";2628000;37.45646;126.70515
+"Yunfu";"Yunfu";"China";"China";"CN";2612800;22.92833;112.03954
+"Al Basrah";"Al Basrah";"Iraq";"Irak";"IQ";2600000;30.53302;47.79747
+"Toronto";"Toronto";"Canada";"Kanada";"CA";2600000;43.70011;-79.4163
+"Daegu";"Daegu";"South Korea";"Südkorea";"KR";2566500;35.87028;128.59111
+"Belo Horizonte";"Belo Horizonte";"Brazil";"Brasilien";"BR";2479200;-19.92083;-43.93778
+"Dakar";"Dakar";"Senegal";"Senegal";"SN";2476400;14.6937;-17.44406
+"Lucknow";"Lakhnau";"India";"Indien";"IN";2472000;26.83928;80.92313
+"Fortaleza";"Fortaleza";"Brazil";"Brasilien";"BR";2400000;-3.71722;-38.54306
+"Cali";"Cali";"Colombia";"Kolumbien";"CO";2392900;3.43722;-76.5225
+"Surabaya";"Surabaya";"Indonesia";"Indonesien";"ID";2374700;-7.24917;112.75083
+"Nanchang";"Nanchang";"China";"China";"CN";2357800;28.68396;115.85306
+"Grand Dakar";"Grand Dakar";"Senegal";"Senegal";"SN";2352100;14.71331;-17.45472
+"Mashhad";"Mashhad";"Iran";"Iran";"IR";2307200;36.31559;59.56796
+"Brooklyn";"Brooklyn";"United States";"Vereinigte Staaten von Amerika";"US";2300700;40.6501;-73.94958
+"Nagoya-shi";"Nagoya-shi";"Japan";"Japan";"JP";2276600;35.18147;136.90641
+"Borough of Queens";"Borough of Queens";"United States";"Vereinigte Staaten von Amerika";"US";2272800;40.68149;-73.83652
+"Quito";"Quito";"Ecuador";"Ecuador";"EC";2239200;-0.22985;-78.52495
+"Brisbane";"Brisbane";"Australia";"Australien";"AU";2238400;-27.46794;153.02809
+"Nagpur";"Nagpur";"India";"Indien";"IN";2228000;21.14631;79.08491
+"Maracaibo";"Maracaibo";"Venezuela";"Venezuela";"VE";2225000;10.63167;-71.64056
+"Kano";"Kano";"Nigeria";"Nigeria";"NG";2163200;12.00012;8.51672
+"Tashkent";"Taschkent";"Uzbekistan";"Usbekistan";"UZ";2140500;41.26465;69.21627
+"Paris";"Paris";"France";"Frankreich";"FR";2138600;48.85341;2.3488
+"Dubai";"Dubai";"United Arab Emirates";"Vereinigte Arabische Emirate";"AE";2106200;25.0657;55.17128
+"Havana";"Havanna";"Cuba";"Kuba";"CU";2106100;23.13302;-82.38304
+"Houston";"Houston";"United States";"Vereinigte Staaten von Amerika";"US";2099500;29.76328;-95.36327
+"Beirut";"Beirut";"Lebanon";"Libanon";"LB";2060400;33.88894;35.49442
+"Johannesburg";"Johannesburg";"South Africa";"Südafrika";"ZA";2026500;-26.20227;28.04363
+"Kowloon";"Kowloon";"Hong Kong";"Hongkong";"HK";2019500;22.31667;114.18333
+"Almaty";"Almaty";"Kazakhstan";"Kasachstan";"KZ";2000900;43.25654;76.92848
+"Medellín";"Medellín";"Colombia";"Kolumbien";"CO";2000000;6.25184;-75.56359
+"Manaus";"Manaus";"Brazil";"Brasilien";"BR";1982200;-3.10194;-60.025
+"Algiers";"Algier";"Algeria";"Algerien";"DZ";1977700;36.7525;3.04197
+"Perth";"Perth";"Australia";"Australien";"AU";1972400;-31.95224;115.8614
+"Accra";"Accra";"Ghana";"Ghana";"GH";1963300;5.55602;-0.1969
+"Guayaquil";"Guayaquil";"Ecuador";"Ecuador";"EC";1952000;-2.20584;-79.90795
+"Ordos";"Ordos";"China";"China";"CN";1940700;39.6086;109.78157
+"Sanaa";"Sanaa";"Yemen";"Jemen";"YE";1937500;15.35472;44.20667
+"Minsk";"Minsk";"Belarus";"Belarus";"BY";1921900;53.9;27.56667
+"Amman";"Amman";"Jordan";"Jordanien";"JO";1919000;31.95522;35.94503
+"Bucharest";"Bukarest";"Romania";"Rumänien";"RO";1883400;44.43225;26.10626
+"Sapporo";"Sapporo";"Japan";"Japan";"JP";1883000;43.06417;141.34695
+"Jilin";"Jilin";"China";"China";"CN";1882000;43.85083;126.56028
+"Camayenne";"Camayenne";"Guinea";"Guinea";"GN";1871200;9.535;-13.68778
+"Vancouver";"Vancouver";"Canada";"Kanada";"CA";1838000;49.24966;-123.11934
+"Indore";"Indore";"India";"Indien";"IN";1837000;22.71792;75.8333
+"Damascus";"Damaskus";"Syria";"Syrien";"SY";1834700;33.5102;36.29128
+"Iztapalapa";"Iztapalapa";"Mexico";"Mexiko";"MX";1820900;19.35738;-99.0671
+"Antananarivo";"Antananarivo";"Madagascar";"Madagaskar";"MG";1816000;-18.91368;47.53613
+"Tripoli";"Tripolis";"Libya";"Libyen";"LY";1780000;32.87519;13.18746
+"Conakry";"Conakry";"Guinea";"Guinea";"GN";1767200;9.53795;-13.67729
+"Maracay";"Maracay";"Venezuela";"Venezuela";"VE";1754300;10.24694;-67.59583
+"Curitiba";"Curitiba";"Brazil";"Brasilien";"BR";1751900;-25.42778;-49.27306
+"Hamburg";"Hamburg";"Germany";"Deutschland";"DE";1751800;53.57532;10.01534
+"Medan";"Medan";"Indonesia";"Indonesien";"ID";1751000;3.58333;98.66667
+"Rawalpindi";"Rawalpindi";"Pakistan";"Pakistan";"PK";1743100;33.6007;73.0679
+"Budapest";"Budapest";"Hungary";"Ungarn";"HU";1741000;47.49801;19.03991
+"Mosul";"Mosul";"Iraq";"Irak";"IQ";1739800;36.335;43.11889
+"Pimpri-Chinchwad";"Pimpri-Chinchwad";"India";"Indien";"IN";1729400;18.62292;73.80696
+"Warsaw";"Warschau";"Poland";"Polen";"PL";1702100;52.22977;21.01178
+"Bandung";"Bandung";"Indonesia";"Indonesien";"ID";1699700;-6.90389;107.61861
+"Soweto";"Soweto";"South Africa";"Südafrika";"ZA";1695000;-26.26781;27.85849
+"Vienna";"Wien";"Austria";"Österreich";"AT";1691500;48.20849;16.37208
+"Rabat";"Rabat";"Morocco";"Marokko";"MA";1655800;34.01325;-6.83255
+"Ecatepec";"Ecatepec";"Mexico";"Mexiko";"MX";1655000;19.61725;-99.06601
+"Manila";"Manila";"Philippines";"Philippinen";"PH";1652200;14.6042;120.9822
+"Montréal";"Montréal";"Canada";"Kanada";"CA";1649500;45.50884;-73.58781
+"Guadalajara";"Guadalajara";"Mexico";"Mexiko";"MX";1640600;20.66682;-103.39182
+"Pretoria";"Pretoria";"South Africa";"Südafrika";"ZA";1619400;-25.74486;28.18783
+"Barcelona";"Barcelona";"Spain";"Spanien";"ES";1611800;41.38879;2.15899
+"Aleppo";"Aleppo";"Syria";"Syrien";"SY";1602300;36.20124;37.16117
+"Patna";"Patna";"India";"Indien";"IN";1599900;25.60222;85.11936
+"Bhopal";"Bhopal";"India";"Indien";"IN";1599900;23.25469;77.40289
+"Puebla";"Puebla";"Mexico";"Mexiko";"MX";1590300;19.04334;-98.20193
+"Kaduna";"Kaduna";"Nigeria";"Nigeria";"NG";1582100;10.52641;7.43879
+"Abuja";"Abuja";"Nigeria";"Nigeria";"NG";1568900;9.05785;7.49508
+"Isfahan";"Isfahan";"Iran";"Iran";"IR";1547200;32.65246;51.67462
+"Kobe";"Kobe";"Japan";"Japan";"JP";1545400;34.6913;135.183
+"Ludhiana";"Ludhiana";"India";"Indien";"IN";1545400;30.91204;75.85379
+"Harare";"Harare";"Zimbabwe";"Simbabwe";"ZW";1542800;-17.82772;31.05337
+"Philadelphia";"Philadelphia";"United States";"Vereinigte Staaten von Amerika";"US";1526000;39.95233;-75.16379
+"Bekasi";"Bekasi";"Indonesia";"Indonesien";"ID";1520100;-6.2349;106.9896
+"Kaohsiung";"Kaohsiung";"Taiwan";"Taiwan";"TW";1519700;22.61626;120.31333
+"Ciudad Juárez";"Ciudad Juárez";"Mexico";"Mexiko";"MX";1512400;31.73333;-106.48333
+"Phnom Penh";"Phnom Penh";"Cambodia";"Kambodscha";"KH";1501700;11.56245;104.91601
+"Manhattan";"Manhattan";"United States";"Vereinigte Staaten von Amerika";"US";1487500;40.78343;-73.96625
+"Asunción";"Asunción";"Paraguay";"Paraguay";"PY";1482200;-25.30066;-57.63591
+"Recife";"Recife";"Brazil";"Brasilien";"BR";1478100;-8.05389;-34.88111
+"Daejeon";"Daejeon";"South Korea";"Südkorea";"KR";1475200;36.32139;127.41972
+"Kyoto";"Kyoto";"Japan";"Japan";"JP";1473700;35.02107;135.75385
+"Kumasi";"Kumasi";"Ghana";"Ghana";"GH";1468600;6.68848;-1.62443
+"Kota Bharu";"Kota Bharu";"Malaysia";"Malaysia";"MY";1460000;6.13328;102.2386
+"Kuala Lumpur";"Kuala Lumpur";"Malaysia";"Malaysia";"MY";1454000;3.1412;101.68653
+"Karaj";"Karaj";"Iran";"Iran";"IR";1448100;35.83266;50.99155
+"Phoenix";"Phoenix";"United States";"Vereinigte Staaten von Amerika";"US";1445600;33.44838;-112.07404
+"Kathmandu";"Kathmandu";"Nepal";"Nepal";"NP";1442300;27.70169;85.3206
+"Palembang";"Palembang";"Indonesia";"Indonesien";"ID";1441500;-2.91673;104.7458
+"Multan";"Multan";"Pakistan";"Pakistan";"PK";1437200;30.19556;71.47528
+"Kharkiv";"Kharkiv";"Ukraine";"Ukraine";"UA";1430900;49.98081;36.25272
+"Agra";"Agra";"India";"Indien";"IN";1430100;27.18333;78.01667
+"Córdoba";"Córdoba";"Argentina";"Argentinien";"AR";1428200;-31.4135;-64.18105
+"Tabriz";"Tabriz";"Iran";"Iran";"IR";1424600;38.08;46.2919
+"Novosibirsk";"Novosibirsk";"Russia";"Russland";"RU";1419000;55.0415;82.9346
+"Gwangju";"Gwangju";"South Korea";"Südkorea";"KR";1416900;35.15472;126.91556
+"Lusaka";"Lusaka";"Zambia";"Sambia";"ZM";1413000;-15.40669;28.28713
+"Bursa";"Bursa";"Turkey";"Türkei";"TR";1412700;40.19266;29.08403
+"Vadodara";"Vadodara";"India";"Indien";"IN";1409500;22.29941;73.20812
+"Belém";"Belém";"Brazil";"Brasilien";"BR";1407700;-1.45583;-48.50444
+"Fushun";"Fushun";"China";"China";"CN";1400600;41.85583;123.92333
+"Fukuoka-shi";"Fukuoka-shi";"Japan";"Japan";"JP";1392300;33.60639;130.41806
+"Luoyang";"Luoyang";"China";"China";"CN";1390600;34.68361;112.45361
+"Hyderabad";"Hyderabad";"Pakistan";"Pakistan";"PK";1386300;25.39242;68.37366
+"The Bronx";"The Bronx";"United States";"Vereinigte Staaten von Amerika";"US";1385100;40.84985;-73.86641
+"Valencia";"Valencia";"Venezuela";"Venezuela";"VE";1385100;10.16202;-68.00765
+"Gujranwala";"Gujranwala";"Pakistan";"Pakistan";"PK";1384500;32.16167;74.18831
+"Barranquilla";"Barranquilla";"Colombia";"Kolumbien";"CO";1380400;10.96854;-74.78132
+"Guankou";"Guankou";"China";"China";"CN";1380000;28.15861;113.62709
+"Tijuana";"Tijuana";"Mexico";"Mexiko";"MX";1376500;32.5027;-117.00371
+"Lubumbashi";"Lubumbashi";"Democratic Republic of the Congo";"Demokratische Republik Kongo";"CD";1373800;-11.66089;27.47938
+"Porto Alegre";"Porto Alegre";"Brazil";"Brasilien";"BR";1372700;-30.03306;-51.23
+"Tangerang";"Tangerang";"Indonesia";"Indonesien";"ID";1372100;-6.17806;106.63
+"Santa Cruz de la Sierra";"Santa Cruz de la Sierra";"Bolivia";"Bolivien";"BO";1364400;-17.78629;-63.18117
+"Handan";"Handan";"China";"China";"CN";1358300;36.60056;114.46778
+"Kampala";"Kampala";"Uganda";"Uganda";"UG";1353200;0.31628;32.58219
+"Mogadishu";"Mogadishu";"Somalia";"Somalia";"SO";1353000;2.03711;45.34375
+"Yekaterinburg";"Yekaterinburg";"Russia";"Russland";"RU";1349800;56.8519;60.6122
+"Khulna";"Khulna";"Bangladesh";"Bangladesch";"BD";1342300;22.80979;89.56439
+"Montevideo";"Montevideo";"Uruguay";"Uruguay";"UY";1338400;-34.90328;-56.18816
+"Douala";"Douala";"Cameroon";"Kamerun";"CM";1338100;4.04827;9.70428
+"San Antonio";"San Antonio";"United States";"Vereinigte Staaten von Amerika";"US";1327400;29.42412;-98.49363
+"Gorakhpur";"Gorakhpur";"India";"Indien";"IN";1324600;29.44768;75.67206
+"Mecca";"Mecca";"Saudi Arabia";"Saudi-Arabien";"SA";1323600;21.42664;39.82563
+"Makassar";"Makassar";"Indonesia";"Indonesien";"ID";1321700;-5.14;119.4221
+"San Diego";"San Diego";"United States";"Vereinigte Staaten von Amerika";"US";1307400;32.71533;-117.15726
+"Kawasaki";"Kawasaki";"Japan";"Japan";"JP";1306800;35.52056;139.71722
+"South Tangerang";"South Tangerang";"Indonesia";"Indonesien";"ID";1303600;-6.28862;106.71789
+"Baotou";"Baotou";"China";"China";"CN";1301800;40.65222;109.82222
+"Medina";"Medina";"Saudi Arabia";"Saudi-Arabien";"SA";1300000;24.46861;39.61417
+"Yaoundé";"Jaunde";"Cameroon";"Kamerun";"CM";1299500;3.86667;11.51667
+"Bamako";"Bamako";"Mali";"Mali";"ML";1297300;12.65;-8
+"Xinyang";"Xinyang";"China";"China";"CN";1295800;32.12278;114.06556
+"Nashik";"Nashik";"India";"Indien";"IN";1289500;19.99727;73.79096
+"Semarang";"Semarang";"Indonesia";"Indonesien";"ID";1288100;-6.9932;110.4203
+"Nizhniy Novgorod";"Nizhniy Novgorod";"Russia";"Russland";"RU";1284200;56.32867;44.00205
+"Port-au-Prince";"Port-au-Prince";"Haiti";"Haiti";"HT";1275000;18.53917;-72.335
+"Budta";"Budta";"Philippines";"Philippinen";"PH";1273700;7.20417;124.43972
+"Belgrade";"Belgrade";"Serbia";"Serbien";"RS";1273700;44.80401;20.46513
+"Sofia";"Sofia";"Bulgaria";"Bulgarien";"BG";1271700;42.69751;23.32415
+"Kalyan";"Kalyan";"India";"Indien";"IN";1262300;19.2437;73.13554
+"Thane";"Thana";"India";"Indien";"IN";1261500;19.19704;72.96355
+"Munich";"München";"Germany";"Deutschland";"DE";1260400;48.13743;11.57549
+"Stockholm";"Stockholm";"Sweden";"Schweden";"SE";1253300;59.33258;18.0649
+"Shiraz";"Shiraz";"Iran";"Iran";"IR";1249900;29.61031;52.53113
+"Adana";"Adana";"Turkey";"Türkei";"TR";1249000;37.00167;35.32889
+"Prague";"Prag";"Czech Republic";"Tschechien";"CZ";1243200;50.08804;14.42076
+"Suwon-si";"Suwon-si";"South Korea";"Südkorea";"KR";1242700;37.29111;127.00889
+"León";"León";"Mexico";"Mexiko";"MX";1239000;21.13052;-101.671
+"Milano";"Milano";"Italy";"Italien";"IT";1236800;45.46427;9.18951
+"Ciudad Nezahualcoyotl";"Ciudad Nezahualcoyotl";"Mexico";"Mexiko";"MX";1232200;19.40061;-99.01483
+"Meerut";"Meerut";"India";"Indien";"IN";1223200;28.98002;77.70636
+"Nowrangapur";"Nowrangapur";"India";"Indien";"IN";1220900;19.23114;82.54826
+"Faridabad";"Faridabad";"India";"Indien";"IN";1220200;28.41124;77.31316
+"Peshawar";"Peshawar";"Pakistan";"Pakistan";"PK";1218800;34.008;71.57849
+"Davao";"Davao";"Philippines";"Philippinen";"PH";1212500;7.07306;125.61278
+"Mandalay";"Mandalay";"Burma";"Myanmar";"MM";1208100;21.97473;96.08359
+"Santiago de los Caballeros";"Santiago de los Caballeros";"Dominican Republic";"Dominikanische Republik";"DO";1200000;19.4517;-70.69703
+"Yueyang";"Yueyang";"China";"China";"CN";1200000;29.37455;113.09481
+"Anshan";"Anshan";"China";"China";"CN";1199300;41.12361;122.99
+"Tongshan";"Tongshan";"China";"China";"CN";1199200;34.18045;117.15707
+"Ghaziabad";"Ghaziabad";"India";"Indien";"IN";1199200;28.66535;77.43915
+"Depok";"Depok";"Indonesia";"Indonesien";"ID";1198100;-6.4;106.81861
+"Dallas";"Dallas";"United States";"Vereinigte Staaten von Amerika";"US";1197800;32.78306;-96.80667
+"Saitama";"Saitama";"Japan";"Japan";"JP";1193400;35.90807;139.65657
+"Dombivli";"Dombivli";"India";"Indien";"IN";1193000;19.21667;73.08333
+"Maputo";"Maputo";"Mozambique";"Mosambik";"MZ";1191600;-25.96553;32.58322
+"Gustavo A. Madero";"Gustavo A. Madero";"Mexico";"Mexiko";"MX";1185800;22.8694;-98.75886
+"Fuzhou";"Fuzhou";"China";"China";"CN";1179700;26.06139;119.30611
+"Rajkot";"Rajkot";"India";"Indien";"IN";1177400;22.29161;70.79322
+"Rosario";"Rosario";"Argentina";"Argentinien";"AR";1173500;-32.94682;-60.63932
+"Guiyang";"Guiyang";"China";"China";"CN";1171600;26.58333;106.71667
+"Goiânia";"Goiânia";"Brazil";"Brasilien";"BR";1171200;-16.67861;-49.25389
+"Guarulhos";"Guarulhos";"Brazil";"Brasilien";"BR";1169600;-23.46278;-46.53333
+"Kigali";"Kigali";"Rwanda";"Ruanda";"RW";1168600;-1.94995;30.05885
+"Varanasi";"Varanasi";"India";"Indien";"IN";1164400;25.31668;83.01041
+"Tbilisi";"Tiflis";"Georgia";"Georgien";"GE";1162400;41.69411;44.83368
+"Adelaide";"Adelaide";"Australia";"Australien";"AU";1158300;-34.92866;138.59863
+"Copenhagen";"Copenhagen";"Denmark";"Dänemark";"DK";1153600;55.67594;12.56553
+"Port Harcourt";"Port Harcourt";"Nigeria";"Nigeria";"NG";1148700;4.77742;7.0134
+"Hiroshima-shi";"Hiroshima-shi";"Japan";"Japan";"JP";1143800;34.39627;132.45937
+"Kazan";"Kazan";"Russia";"Russland";"RU";1143600;55.78874;49.12214
+"Brussels";"Brüssel";"Belgium";"Belgien";"BE";1138900;50.85045;4.34878
+"Lijiang";"Lijiang";"China";"China";"CN";1137600;26.86879;100.22072
+"Samara";"Samara";"Russia";"Russland";"RU";1134700;53.20007;50.15
+"Chelyabinsk";"Tscheljabinsk";"Russia";"Russland";"RU";1130100;55.15402;61.42915
+"Omsk";"Omsk";"Russia";"Russland";"RU";1129300;54.99244;73.36859
+"Benin City";"Benin-Stadt";"Nigeria";"Nigeria";"NG";1125100;6.33815;5.62575
+"Monterrey";"Monterrey";"Mexico";"Mexiko";"MX";1122900;25.67507;-100.31847
+"Malingao";"Malingao";"Philippines";"Philippinen";"PH";1122000;7.16083;124.475
+"Allahabad";"Allahabad";"India";"Indien";"IN";1117100;25.44894;81.83329
+"Baku";"Baku";"Azerbaijan";"Aserbaidschan";"AZ";1116500;40.37767;49.89201
+"Brazzaville";"Brazzaville";"Republic of the Congo";"Kongo";"CG";1115800;-4.26613;15.28318
+"Maiduguri";"Maiduguri";"Nigeria";"Nigeria";"NG";1112400;11.84692;13.15712
+"Yerevan";"Jerewan";"Armenia";"Armenien";"AM";1093500;40.18111;44.51361
+"Amritsar";"Amritsar";"India";"Indien";"IN";1092500;31.63661;74.87476
+"N'Djamena";"N'Djamena";"Chad";"Tschad";"TD";1092000;12.10672;15.0444
+"Ouagadougou";"Ouagadougou";"Burkina Faso";"Burkina Faso";"BF";1086500;12.36566;-1.53388
+"Yono";"Yono";"Japan";"Japan";"JP";1077700;35.88333;139.63333
+"Rostov-na-Donu";"Rostov-na-Donu";"Russia";"Russland";"RU";1074500;47.23135;39.72328
+"Goyang-si";"Goyang-si";"South Korea";"Südkorea";"KR";1073100;37.65639;126.835
+"Gaziantep";"Gaziantep";"Turkey";"Türkei";"TR";1066000;37.05944;37.3825
+"Visakhapatnam";"Visakhapatnam";"India";"Indien";"IN";1063200;17.68009;83.20161
+"Sendai-shi";"Sendai-shi";"Japan";"Japan";"JP";1063100;38.26889;140.87195
+"Sendai";"Sendai";"Japan";"Japan";"JP";1063100;38.25759;140.8667
+"Datong";"Datong";"China";"China";"CN";1052700;40.09361;113.29139
+"Changshu City";"Changshu City";"China";"China";"CN";1047700;31.64615;120.74221
+"Taichung";"Taichung";"Taiwan";"Taiwan";"TW";1040700;24.1469;120.6839
+"Teni";"Teni";"India";"Indien";"IN";1034700;10.01531;77.482
+"Xianyang";"Xianyang";"China";"China";"CN";1034100;34.33778;108.70261
+"Ufa";"Ufa";"Russia";"Russland";"RU";1033300;54.74306;55.96779
+"Dnipropetrovsk";"Dnipropetrovsk";"Ukraine";"Ukraine";"UA";1032800;48.45;34.98333
+"Seongnam-si";"Seongnam-si";"South Korea";"Südkorea";"KR";1031900;37.43861;127.13778
+"Jabalpur";"Jabalpur";"India";"Indien";"IN";1030200;23.16697;79.95006
+"Haora";"Haora";"India";"Indien";"IN";1027700;22.57688;88.31857
+"Huainan";"Huainan";"China";"China";"CN";1027700;32.62639;116.99694
+"Campinas";"Campinas";"Brazil";"Brasilien";"BR";1024900;-22.90556;-47.06083
+"Donetsk";"Donetsk";"Ukraine";"Ukraine";"UA";1024700;48.023;37.80224
+"Dublin";"Dublin";"Ireland";"Irland";"IE";1024000;53.33306;-6.24889
+"Calgary";"Calgary";"Canada";"Kanada";"CA";1019900;51.05011;-114.08529
+"Aurangabad";"Aurangabad";"India";"Indien";"IN";1016400;19.87757;75.34226
+"Volgograd";"Volgograd";"Russia";"Russland";"RU";1011400;48.71939;44.50183
+"Nova Iguaçu";"Nova Iguaçu";"Brazil";"Brasilien";"BR";1002100;-22.75917;-43.45111
+"Jieyang";"Jieyang";"China";"China";"CN";1002000;23.5418;116.36581
+"Odessa";"Odessa";"Ukraine";"Ukraine";"UA";1001600;46.47747;30.73262

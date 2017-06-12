@@ -1,0 +1,24 @@
+# Countries
+
+## pretty-name changes
+
+Viet Nam > Vietnam
+United Kingdom of Great Britain and Northern Ireland > United Kingdom
+"Taiwan, Province of China" > Taiwan
+Venezuela (Bolivarian Republic of) > Venezuela
+"Tanzania, United Republic of" > Tanzania
+Macedonia (the former Yugoslav Republic of) > Macedonia
+Lao People's Democratic Republic > Laos
+Bolivia (Plurinational State of) > Bolivia
+Brunei Darussalam > Brunei
+Russian Federation > Russia
+Korea (Democratic People's Republic of) > North Korea
+Korea (Republic of) > South Korea
+Moldova (Republic of) > Moldova
+Côte d'Ivoire > Ivory Coast
+
+
+## capitals
+
+added Willemstad as the capital of Curaçao
+manually added the capital of Namibia in the _enriched_capitals.csv
