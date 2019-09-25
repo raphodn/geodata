@@ -1,9 +1,3 @@
-# coding='utf-8'
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
-# Import the modules
 import json
 import csv
 import pandas as pd
@@ -24,7 +18,7 @@ def duplicate_column(filename):
                 try:
                     csv_data.append([row[0], row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8]])
                 except:
-                    print idx
+                    print(idx)
 
     with open(filename + "_enriched.csv", 'wb') as f:
         wr = csv.writer(f, delimiter=',', lineterminator='\n')
@@ -50,7 +44,7 @@ def add_capitals(filename):
                     row.extend([capital["City (en)"], str(capital["Latitude"]), str(capital["Longitude"])])
                     csv_data.append(row)
                 except:
-                    print row[0]
+                    print(row[0])
                     row.extend(["", "", ""])
                     csv_data.append(row)
 
@@ -59,12 +53,29 @@ def add_capitals(filename):
         wr.writerows(csv_data)
 
 
+def csv_to_json(filename):
+
+    result = {}
+
+    with open(filename + '.csv', 'r') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+
+        for idx, row in enumerate(reader):
+            if idx > 0:
+                result[row[5]] = row[4]
+        
+    with open('geonames.json', 'w') as outfile:
+        json.dump(result, outfile)
+
+
 """
 main()
 """
 if __name__ == '__main__':
 
-    filename = "country_alphas_regions_continent_enriched"
+    # filename = "country_alphas_regions_continent_enriched"
+    # filename = "geonames"
 
     # duplicate_column(filename)
-    add_capitals(filename)
+    # add_capitals(filename)
+    # csv_to_json(filename)
