@@ -1,0 +1,7 @@
+timestamp,location,latitude,longitude,altitude,transport,distance,comment
+13 October 2019 05:15:00,Kathmandu,,,1400,bus,,to
+13 October 2019 18:45:00,Phaplu,27.51440,86.58488,2413,jeep,2,to
+14 October 2019 09:45:00,Ringmu,27.59007,86.60795,2785,,,to
+30 October 2019 08:05:00,Lukla,,,2850,flight,,back
+30 October 2019 08:25:00,Ramechap,,,1218,bus,,back
+30 October 2019 14:30:00,Kathmandu,,,1460,hotel,,back

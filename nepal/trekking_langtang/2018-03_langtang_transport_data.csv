@@ -1,0 +1,5 @@
+timestamp,location,latitude,longitude,altitude,transport,distance,comment
+08 March 2018 06:50:00,Kathmandu,,,1400,bus,,to
+08 March 2018 14:00:00,Shyaphru Besi,,,1460,hike,,to
+11 March 2018 08:00:00,Shyaphru Besi,,,1460,bus,,back
+11 March 2018 20:00:00,Kathmandu,,,1460,hotel,,back
